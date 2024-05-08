@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/advanced-video-embed-embed-videos-or-playlists" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/an-gradebook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/memphis-documents-library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/paid-memberships-pro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/thecartpress" vcs="Git" />
+  </component>
+</project>
